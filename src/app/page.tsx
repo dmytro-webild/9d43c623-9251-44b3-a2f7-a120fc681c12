@@ -134,7 +134,7 @@ export default function LandingPage() {
   <div id="footer" data-section="footer">
       <FooterSimple
       columns={[
-        { title: "Home Town Curtains", items: [{ label: "Location: Abu Dhabi, UAE" }, { label: "Email: info@hometowncurtains.ae" }, { label: "Phone: 055 245 7713" }] },
+        { title: "Home Town Curtains", items: [{ label: "Location: Abu Dhabi, UAE" }, { label: "Email: awaissami6789@gmail.com" }, { label: "Phone: 055 245 7713" }] },
         { title: "Services", items: [{ label: "Custom Curtains" }, { label: "Upholstery" }] }
       ]}
       bottomLeftText="© 2024 Home Town Curtains & Upholstery"
