@@ -56,7 +56,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Crafting Elegance for Your Home"
       description="With years of experience, we specialize in high-quality curtain fabrication and furniture restoration. Our team is dedicated to providing bespoke solutions that reflect your personal style, using only the finest fabrics and materials. We take pride in our precision sewing and reliable installation services."
-      imageSrc="http://img.b2bpic.net/free-photo/set-grey-dense-fabrics-uniform-texture-choice-materials-grey-colors_169016-15231.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/set-grey-dense-fabrics-uniform-texture-choice-materials-grey-colors_169016-15231.jpg?_wi=1"
       imageAlt="Our workshop and premium fabrics"
     />
   </div>
@@ -66,9 +66,9 @@ export default function LandingPage() {
       textboxLayout="split"
       useInvertedBackground={false}
       features={[
-        { title: "Custom Drapery", description: "Tailored to your exact windows", imageSrc: "http://img.b2bpic.net/free-photo/set-grey-dense-fabrics-uniform-texture-choice-materials-grey-colors_169016-15231.jpg" },
-        { title: "Furniture Restoration", description: "Give your upholstery new life", imageSrc: "http://img.b2bpic.net/free-photo/close-up-velvet-texture_23-2149305940.jpg" },
-        { title: "Professional Fitting", description: "Seamless installation every time", imageSrc: "http://img.b2bpic.net/free-photo/white-wooden-wall-background_53876-89006.jpg" }
+        { title: "Custom Drapery", description: "Tailored to your exact windows", imageSrc: "http://img.b2bpic.net/free-photo/set-grey-dense-fabrics-uniform-texture-choice-materials-grey-colors_169016-15231.jpg?_wi=2" },
+        { title: "Furniture Restoration", description: "Give your upholstery new life", imageSrc: "http://img.b2bpic.net/free-photo/close-up-velvet-texture_23-2149305940.jpg?_wi=1" },
+        { title: "Professional Fitting", description: "Seamless installation every time", imageSrc: "http://img.b2bpic.net/free-photo/white-wooden-wall-background_53876-89006.jpg?_wi=1" }
       ]}
       title="Our Premium Services"
       description="Professional services designed to elevate your living environment."
@@ -83,8 +83,8 @@ export default function LandingPage() {
       useInvertedBackground={false}
       products={[
         { id: "1", name: "Luxury Silk Drapes", price: "Custom", imageSrc: "http://img.b2bpic.net/free-photo/set-dark-multi-colored-dense-fabrics-uniform-texture-choice-materials-different-colors_169016-15721.jpg" },
-        { id: "2", name: "Velvet Living Curtains", price: "Custom", imageSrc: "http://img.b2bpic.net/free-photo/close-up-velvet-texture_23-2149305940.jpg" },
-        { id: "3", name: "Minimalist Sheer", price: "Custom", imageSrc: "http://img.b2bpic.net/free-photo/white-wooden-wall-background_53876-89006.jpg" }
+        { id: "2", name: "Velvet Living Curtains", price: "Custom", imageSrc: "http://img.b2bpic.net/free-photo/close-up-velvet-texture_23-2149305940.jpg?_wi=2" },
+        { id: "3", name: "Minimalist Sheer", price: "Custom", imageSrc: "http://img.b2bpic.net/free-photo/white-wooden-wall-background_53876-89006.jpg?_wi=2" }
       ]}
       title="Recent Installations"
       description="Explore some of our latest projects and high-end curtain designs."
